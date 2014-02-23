@@ -10,5 +10,6 @@
  *
  *= require_self 
  *= require impress
- */
+ *= require_tree
+*/
 

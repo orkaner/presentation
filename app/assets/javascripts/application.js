@@ -13,5 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require impress
-//= require_tree .
+//= require welcome
+
+
+
 
