@@ -631,9 +631,9 @@ a:focus {
 .impress-enabled .hint { display: block }
 
 /*
-    ... and we will show it when the first step (with id 'intro') is active.
+    ... and we will show it when the first step (with id 'bored') is active.
 */
-.impress-on-intro .hint {
+.impress-on-bored .hint {
     /*
         We remove the transparency and position the hint in its default fixed
         position.
