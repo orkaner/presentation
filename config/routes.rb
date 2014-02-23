@@ -1,7 +1,7 @@
 Presentation::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.
- match '/presentation', to: redirect('/presentation.html') 
+ match '/', to: redirect('/presentation.html') 
 
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'
