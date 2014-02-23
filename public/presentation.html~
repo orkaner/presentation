@@ -117,8 +117,10 @@
       <img src="images/UCITS_EU.png" title="UCITS EU" alt="image" align="left" width="500" />
       <ul>
       <li class="substep"><strong>Undertaking for Collective Investment in Transferable Securities</strong>, established on <strong>20.12.1985</strong></li>     
-      <li class="substep">Provides <strong>common standards</strong> across the <strong>European Union</strong> for <strong>open-ended funds</strong> investing in transferable securities such as <strong>Shares</strong> and <strong>Units</strong></li>
+      <li class="substep">Provides <strong>common standards</strong> across the <strong>European Union</strong> for <strong>*open-ended funds</strong> investing in transferable securities such as <strong>Shares</strong> and <strong>Units</strong></li>
+<li class="substep"><span class="footnote">*Calculated by subtracting the fund’s liabilities from the value of its assets and dividing the result by the number of outstanding fund shares.</span></li>
      </ul>
+	
     </div>
 
     <!--
